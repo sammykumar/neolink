@@ -17,6 +17,31 @@ camera.
 The Neolink project is not affiliated with Reolink in any way; everything it
 does has been reverse engineered.
 
+## Table of Contents
+
+- [This Fork](#this-fork)
+- [Installation](#installation)
+- [Config/Usage](#configusage)
+  - [RTSP](#rtsp)
+  - [Discovery](#discovery)
+  - [MQTT](#mqtt)
+  - [Controlling RTSP from MQTT](#controlling-rtsp-from-mqtt)
+  - [MQTT Disable Features](#mqtt-disable-features)
+  - [MQTT Discovery](#mqtt-discovery)
+  - [Extra Camera Settings](#extra-camera-settings)
+  - [Pause](#pause)
+  - [Idle Disconnects](#idle-disconnects)
+  - [Docker](#docker)
+  - [Image](#image)
+  - [Battery Levels](#battery-levels)
+  - [PIR](#pir)
+  - [Reboot](#reboot)
+  - [Status LED](#status-led)
+  - [Talk](#talk)
+  - [PTZ](#ptz)
+- [License](#license)
+- [Donations](#donations)
+
 ## This Fork
 
 This fork is an extension of
